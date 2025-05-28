@@ -1,5 +1,5 @@
 ---
-layout: category
+layout: home
 title: "Study shop"
 ---
 
