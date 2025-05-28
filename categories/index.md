@@ -1,12 +1,10 @@
 ---
-layout: home
+layout: Category
 title: "Study shop"
 ---
-# Welcome to Study shop
-This blog focuses on Mathematical Statistics and Data Analysis projects.
 
-## 수리통계학 프로젝트
-[수리통계학 페이지 바로가기](/categories/수리통계학/)
+## 수리통계학
+[수리통계학](/categories/수리통계학/)
 
 ### Recent Posts
 {% for post in site.posts limit:3 %}
