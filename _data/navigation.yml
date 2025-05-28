@@ -10,13 +10,3 @@ main:
   - title: "Tags"
     url: /tags/
     
-
-main:
-  - title: "Home"
-    url: /
-  - title: "수리통계학"
-    url: /math-stats/
-  - title: "Category"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
