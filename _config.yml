@@ -219,7 +219,7 @@ sass:
 collections:
   categories:
     output: true
-    permalink: /categories/:name/
+    permalink: /:categories/:title/
 
 # Outputting
 permalink: /:categories/:title/
