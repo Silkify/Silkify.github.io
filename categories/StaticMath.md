@@ -1,7 +1,7 @@
 ---
-title: "수리통계학"
+title: "StaticMath"
 layout: archive
+permalink: /categories/StaticMath/
 author_profile: true
 entries_layout: list
-permalink: /categories/수리통계학/
 ---
