@@ -205,15 +205,14 @@ sass:
 
 #0528추가사항
 collections:
-  categories:
-    output: true
-    permalink: /:path/
-
+  posts:
+    permalink: /:categories/:title/
+    
 # Outputting
 permalink: /:categories/:title/
 paginate: 15 # amount of posts to show
 paginate_path: /page:num/
-timezone: Asia/Seoul
+#timezone: Asia/Seoul
 
 
 # Plugins (previously gems:)
@@ -246,6 +245,7 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
+theme: minimal-mistakes-jekyll
 encoding : UTF-8
 tag_archive:
   type: liquid

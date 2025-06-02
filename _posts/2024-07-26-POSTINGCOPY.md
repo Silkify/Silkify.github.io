@@ -1,10 +1,11 @@
 ---
 layout: single
-title:  "공공데이터분석_공공자전거편_2"
-categories: coding
-tag: [Python]
+title: "공공데이터분석_공공자전거편_2"
+categories: 
+  - python
 toc: true
-author_profile: false
+author_profile: True
+permalink: /categories/python/bicycle-2
 ---
 
 <head>

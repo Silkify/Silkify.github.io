@@ -1,10 +1,11 @@
 ---
 layout: single
 title:  "HOW did EDG win the Valorant champions in Seoul - Esports(Valorant)!"
-categories: DataAnalytic
-tag: [python]
+categories: 
+  - Project
 toc: true
-author_profile: false
+author_profile: True
+permalink: /categories/Project/Project-1
 ---
 
 <head>
