@@ -5,7 +5,7 @@ categories:
   - Project
 toc: true
 author_profile: True
-permalink: /categories/Project/Project-1
+permalink: /categories/Project/Project-2
 ---
 
 <head>
